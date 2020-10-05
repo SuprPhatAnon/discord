@@ -8,20 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuprPhatAnon/node-red-contrib-discord-voice.git"
+    "url": "git+https://github.com/SuprPhatAnon/node-red-contrib-discord-v2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SuprPhatAnon/node-red-contrib-discord-voice/issues"
+    "url": "https://github.com/SuprPhatAnon/node-red-contrib-discord-v2/issues"
   },
-  "homepage": "https://github.com/SuprPhatAnon/node-red-contrib-discord-voice#readme",
+  "homepage": "https://github.com/SuprPhatAnon/node-red-contrib-discord-v2#readme",
   "dependencies": {
     "bufferutil": "^4.0.1",
     "discord.js": "^12.3.1",
     "erlpack": "^0.1.3",
     "utf-8-validate": "^5.0.2",
     "zlib-sync": "^0.1.7"
-  }
+  },
+  "devDependencies": {}
 }
